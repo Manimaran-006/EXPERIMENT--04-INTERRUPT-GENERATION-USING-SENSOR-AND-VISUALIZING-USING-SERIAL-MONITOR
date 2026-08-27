@@ -2,7 +2,7 @@
 
 ###  DATE: 20.08.2026
 
-###  NAME: MAnimaran V
+###  NAME: Manimaran V
 ###  ROLL NO : 212224220060
 ###  DEPARTMENT: IT
 ### Aim:
