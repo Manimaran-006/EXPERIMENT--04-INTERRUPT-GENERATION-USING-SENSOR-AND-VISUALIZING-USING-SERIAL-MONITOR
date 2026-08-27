@@ -2,9 +2,9 @@
 
 ###  DATE: 20.08.2026
 
-###  NAME: Hemalatha.A
-###  ROLL NO : 212224240056
-###  DEPARTMENT: AIML
+###  NAME: MAnimaran V
+###  ROLL NO : 212224220060
+###  DEPARTMENT: IT
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
